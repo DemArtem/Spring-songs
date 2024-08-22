@@ -23,8 +23,7 @@ public class SongController {
     public String showSongs(Model model) {
         List<Song> songs = songService.findAll();
         
-songs.stream
-().forEach(System.out::println);
+songs.stream().forEach(System.out::println);
         model.addAttribute("songs", songs);
         return "songs";
     }

@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ac67876-e44e-4a5a-9f03-29ad1e35be80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/itstep/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/itstep/controller/SongController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/itstep/model/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/itstep/repository/SongRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/itstep/service/SongService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/songs/song.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/songs.html" afterDir="false" />
+    <list default="true" id="5ac67876-e44e-4a5a-9f03-29ad1e35be80" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/photos/photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itstep/controller/SongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itstep/controller/SongController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +38,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gk\IdeaProjects\Spring-songs\src\main\resources\static\photos" />
       <recent name="C:\Users\gk\IdeaProjects\Spring-songs\src\main\resources\static" />
       <recent name="C:\Users\gk\IdeaProjects\Spring-songs\src\main\resources\songs" />
     </key>
@@ -84,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1724345202688</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1724347190484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724347190484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
