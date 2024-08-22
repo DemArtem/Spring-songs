@@ -20,6 +20,17 @@ public class Song {
     private int songYear;
     @Column(name = "audio_file_path")
     private String audioFilePath;
+
+    public String getPhotoFilePath() {
+        return photoFilePath;
+    }
+
+    public void setPhotoFilePath(String photoFilePath) {
+        this.photoFilePath = photoFilePath;
+    }
+
+    @Column(name = "photo_file_path")
+    private String photoFilePath;
     public int getId() {
         return id;
     }
